@@ -16,6 +16,7 @@ public class Adding
         for (int i = array.length - 1; i >= 0; i--) {
             System.out.println(array[i]);
         }
+        System.out.rpintln("hello");
         
     }
     

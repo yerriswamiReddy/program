@@ -17,7 +17,7 @@ public class Adding
             System.out.println(array[i]);
         }
         System.out.println("hi");
-        
+        System.out.println("hello");        
     }
     
 }
